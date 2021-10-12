@@ -8,7 +8,7 @@ sections:
   path: projects
   label: Projects
   create: all
-  match: content/projects/*
+  match: "*"
   templates:
   - projects
 - type: document
