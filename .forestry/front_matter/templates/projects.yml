@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: Description
+pages:
+- projects/ditte.md
